@@ -3,7 +3,7 @@ hello!
 # Cathay-CADS
 
 ### Repository Name
-Platform_ProjectName_{Description}\_Framework_(Types)
+Platform_ProjectName_{Description}\_Framework\_{Types}
 
 | | |
 |--|--|
