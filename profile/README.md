@@ -5,7 +5,7 @@ hello!
 ### Repository Name
 Platform_ProjectName_{Description}\_Framework\_{Types}
 
-| | |
+| Rule | Description |
 |--|--|
 |Platform | 使用平台 |
 |ProjectName | 專案名稱（簡要說明Repo內容）|
