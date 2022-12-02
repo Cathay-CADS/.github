@@ -14,5 +14,5 @@ Platform_ProjectName_{Description}\_Framework\_{Types}
 |v|Framework | 執行框架 |
 ||Type | 專案類別: POC、Tool，default為內部開發專案
 
-e.g. [GCP_ApiTemplate_API]、[GCP_CloudSQL_API_POC]
+### e.g. GCP_ApiTemplate_API、GCP_CloudSQL_API_POC
 ---
